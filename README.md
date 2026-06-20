@@ -1,33 +1,35 @@
-# **Isaque França**  
-QA Tester especializado em automação e qualidade de software.  
-Ajudo times a entregarem produtos mais estáveis, rápidos e confiáveis através de testes bem estruturados e pipelines eficientes.
+# Olá, eu sou o Isaque França! 👋
+
+QA Tester especializado em automação e qualidade de software. Ajudo times a entregarem produtos mais estáveis, rápidos e confiáveis através de testes bem estruturados e pipelines eficientes.
+
+- 🔭 Atualmente trabalhando na **Provider IT** com automação utilizando **Playwright** e pipelines no **GitLab**.
+- 🌱 No momento, aprofundando conhecimentos em **Playwright Avançado**, **Arquitetura de Testes** e **MongoDB**.
+- 🎓 Cursando **Tecnologia da Informação** pela UNIVESP e certificado **CTFL**.
+- 📫 Como me encontrar: **isaquefranca2@hotmail.com** | (+55) 11 94894-4209
 
 ---
 
-## **Sobre mim**  
-Atuo com automação usando Playwright e TypeScript, criando testes Web e API REST em ambientes de microserviços.  
-Tenho experiência com CI/CD, versionamento e gestão de qualidade, sempre focado em melhorar processos e reduzir riscos.  
-Cursando Tecnologia da Informação pela UNIVESP e certificado CTFL.  
-Atualmente aprofundando conhecimentos em Playwright avançado, arquitetura de testes e MongoDB.
+### 🚀 Stack Atual & Ferramentas
+
+#### 🧪 Automação e Qualidade
+- Playwright, Cucumber, Cypress, Selenium
+
+#### 💻 Linguagens e Ambientes
+- TypeScript, JavaScript, Node.js
+
+#### 🗄️ Banco de Dados
+- PostgreSQL, MongoDB Compass
+
+#### ⚙️ CI/CD e Gestão
+- GitLab CI, Jenkins, Jira, Xray
 
 ---
 
-## **Stack Atual**  
-Automação com Playwright, Cucumber, testes Web e API REST.  
-Desenvolvimento com TypeScript e Node.js.  
-Bancos de dados PostgreSQL e MongoDB Compass.  
-Integração contínua com Jenkins e GitLab.  
-Gestão de qualidade com Jira e Xray.
+### 💼 Experiência Professional
 
----
-
-## **Experiência**  
-Provider IT: automação com Playwright, testes de API e pipelines GitLab.  
-Kaspper: automação com Cypress e testes funcionais/exploratórios.  
-Qintess: automação com Selenium e Cucumber, execução via Jenkins.
-
----
-
-## **Contato**  
-`(+55) 11 9 4894-4209`  
-`isaquefranca2@hotmail.com`
+*   **Provider IT** | *Analista de QA / Automação*
+    *   Foco em automação com Playwright, testes de API REST em ambientes de microsserviços e integração contínua via GitLab.
+*   **Kaspper** | *Analista de QA*
+    *   Automação de testes com Cypress e execução de testes funcionais/exploratórios.
+*   **Qintess** | *Analista de QA*
+    *   Automação de testes com Selenium e Cucumber, com execução de esteiras via Jenkins.
